@@ -15,7 +15,7 @@ cin >> count;
 while (count>0){
     cout << "Hello.\n";
     count--;
-}
+};
 
 
 
